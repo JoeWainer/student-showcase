@@ -70,7 +70,7 @@ _November 2006 – February 2009_
 
 ## Education
 
-**Technical Writing Certificate @ Ourbestwords.com (in progress)**
+**Technical Writing Certificate @ Ourbestwords.com**
 
 - Technical Communication Skills
 - Technical Communication Tools
